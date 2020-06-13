@@ -1,8 +1,10 @@
 ##Документација за lab2 151179 Group 3
 
 ![image](images/CFG.png)
-”12345678”
+
+
 ###Cyclomatic Complexity
+
 nodes: 24, edges 32, cyclomatic complexity E-N+2 = 32-24+2 = 10
 
 number of regions:  10
